@@ -67,6 +67,10 @@ body {
 	left: 0;
 	z-index: 1;
 }
+.card-body button a {
+	text-decoration: none;
+	color: #000;
+}
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.carousel-caption {
