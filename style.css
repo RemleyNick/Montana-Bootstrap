@@ -67,6 +67,9 @@ body {
 	left: 0;
 	z-index: 1;
 }
+.card {
+	height: 115vh;
+}
 .card-body button a {
 	text-decoration: none;
 	color: #000;
